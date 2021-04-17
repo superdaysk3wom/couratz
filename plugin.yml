@@ -1,0 +1,6 @@
+name: FactionStats
+main: fr.koora.FactionStats.Main
+version: 1.0
+commands:
+  fs:
+    description: Commande principale du plugin.
